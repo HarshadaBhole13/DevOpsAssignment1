@@ -1,3 +1,1 @@
-Line from main branch
-Line from feature-branch
-
+This is from main branch
